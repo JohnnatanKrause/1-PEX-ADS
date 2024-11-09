@@ -1,7 +1,10 @@
 # PEX em Salão de Beleza - Permissão e Requisitos
 
 ## Necessidade do Local
-A identificação do problema (falta de um site ou sistema de agendamento) é um ótimo ponto de partida para o seu projeto. Isso é algo que você pode resolver facilmente utilizando ferramentas simples, como Wix ou WordPress, ou mesmo sugerir aplicativos de agendamento. A escolha do salão é válida desde que essa demanda exista e que você consiga aplicar os conhecimentos adquiridos no curso.
+A identificação do problema (falta de um site ou sistema de agendamento) é o ponto de partida para o projeto. 
+Isso é algo que precisa ser resolvido utilizando ferramentas simples, como Wix ou WordPress.
+A escolha do salão é válida desde que essa demanda exista e que consiga aplicar os conhecimentos adquiridos 
+no curso.
 
 ## Possível Projeto
 
