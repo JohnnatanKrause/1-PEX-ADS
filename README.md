@@ -1,36 +1,44 @@
 # PEX em Salão de Beleza - Permissão e Requisitos
 
-## Necessidade do Local
-A identificação do problema (falta de um site ou sistema de agendamento) é o ponto de partida para o projeto. 
-Isso é algo que precisa ser resolvido utilizando ferramentas simples, como Wix ou WordPress.
-A escolha do salão é válida desde que essa demanda exista e que consiga aplicar os conhecimentos adquiridos 
-no curso.
+O PEX (Projeto de Extensão) é uma atividade acadêmica obrigatória que permite aos alunos aplicar conhecimentos teóricos em soluções práticas para empresas ou comunidades. 
+O objetivo é gerar impacto social e proporcionar experiência prática, com um relatório final detalhando as atividades realizadas.
 
-## Possível Projeto
+## Idéia do Projeto
 
-### Criação de um site simples
+### Criação de um site simples para um salão de beleza
+
 A criação de uma página para divulgação e agendamento dos clientes é uma excelente forma de colocar em prática o aprendizado do semestre. 
 Também podemos considerar soluções prontas e baratas, como Google Forms, Calendly, ou plataformas de agendamento.
 
-## Aceitação do PEX
-O importante é que o projeto tenha impacto real. O salão não precisa ser uma grande empresa ou ter muitos recursos; 
-O fundamental é que o PEX gere valor para o local e que possa aplicar os conhecimentos de forma prática.
+### Necessidade do Local
 
-## Comprovação
+- A identificação do problema é o ponto de partida para o projeto isso é algo que precisa ser resolvido utilizando ferramentas simples, como Wix ou WordPress.
+
+- A escolha do salão é válida desde que essa demanda exista e que consiga aplicar os conhecimentos adquiridos no curso.
+
+### Aceitação do PEX
+
+- O importante é que o projeto tenha impacto real. O salão não precisa ser uma grande empresa ou ter muitos recursos; 
+
+- O fundamental é que o PEX gere valor para o local e que possa aplicar os conhecimentos de forma prática;
+
+### Comprovação
 
 Como o salão não tem site ou aplicativo, pode ser documentado o processo de desenvolvimento e/ou sugestões feitas. Tirar fotos do salão, 
 registrar a reunião com a proprietária, e capturar prints da página que foi desenvolvido serão provas suficientes.
 
 ## Possibilidade de Continuação
 
-Caso o projeto precise de mais de um semestre para ser implementado (por exemplo, se você desenvolver um site completo ou criar um sistema 
-de agendamento mais complexo), isso é possível. Apenas siga o roteiro do semestre seguinte para garantir que o projeto continue dentro das diretrizes.
+Caso o projeto precise de mais de um semestre para ser implementado (por exemplo, se for desenvolver um site completo ou criar um sistema 
+de agendamento mais complexo), isso é possível. 
+
+Apenas é necessario seguir o roteiro do semestre seguinte para garantir que o projeto continue dentro das diretrizes do roteiro do PEX.
 
 ---
 
-# Sugestões para Estruturar seu PEX
+# Estruturação do PEX
 
-Abaixo um esboço de estrutura para o projeto PEX no salão de beleza, com base nos detalhes constante no roteiro e no manual do aluno.
+Abaixo um esboço de estrutura para o projeto PEX no salão de beleza, com base nos detalhes constante no Roteiro e no Manual do Aluno.
 
 ## 1. Introdução
 
@@ -68,7 +76,7 @@ ajuda a aumentar a visibilidade do salão e otimizar o atendimento.
 
 ## 4. Metodologia
 
-- **Pesquisa de ferramentas**: Detalhes de foi feita a pesquisa sobre as melhores opções de plataformas ou decidir a criar algo do zero.
+- **Pesquisa de ferramentas**: Detalhes de como foi feita a pesquisa sobre as melhores opções de plataformas ou decidir a criar algo do zero.
 - **Desenvolvimento do site e/ou sistema de agendamento**: Descrever o processo de criação, a interação com a proprietária do salão, e o que foi implementado.
 - **Testes e ajustes**: Relatar os testes feitos, feedback recebido, e ajustes realizados no sistema de agendamento ou no site.
 
@@ -83,3 +91,4 @@ Definir como o projeto vai beneficiar o salão de beleza (ex: facilidade no agen
 ## 7. Conclusão
 
 Refletir sobre o impacto do projeto no salão e como ele se alinha com os objetivos do PEX (aplicar conhecimento, gerar soluções reais, e agregar valor à comunidade/local).
+
