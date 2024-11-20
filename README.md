@@ -68,14 +68,42 @@ Além disso, o site aumentará a visibilidade do salão e atrairá novos cliente
 
 ### 5. Cronograma
 
-| Semana | Atividade |
-|--------|-----------|
-| 1      | Reunião com a proprietária para entender as necessidades e funcionalidades do site. |
-| 2      | Pesquisa e escolha da ferramenta de criação de site e agendamento. |
-| 3      | Desenvolvimento inicial do site e integração do sistema de agendamento. |
-| 4      | Testes do site e ajustes conforme feedback. |
-| 5      | Finalização e entrega do site, incluindo relatório de atividade. |
-| 6      | Acompanhamento e ajustes finais se necessário. |
+| **Semana** | **Atividade**                                                                                   |
+|------------|-------------------------------------------------------------------------------------------------|
+| **1**      | **Reunião com a proprietária para entender as necessidades e funcionalidades do site.**        |
+|            | - Definir funcionalidades principais do site (ex.: agendamento, informações sobre serviços).     |
+|            | - Levantar expectativas de design e estilo.                                                     |
+|            | - Discutir a paleta de cores e o branding visual do salão.                                       |
+|            | - Definir o conteúdo necessário para o site (textos, imagens, informações).                     |
+|            | - **Microetapa**: Reunião sobre o estilo visual do site e suas preferências.                     |
+| **2**      | **Pesquisa e escolha da ferramenta de criação de site e agendamento.**                            |
+|            | - Pesquisa sobre plataformas de criação de sites (Wix, WordPress, etc.).                         |
+|            | - Seleção da ferramenta de agendamento online (ex: Calendly, Google Forms ou outra).            |
+|            | - Análise de templates que atendam às necessidades do salão.                                     |
+|            | - **Microetapa**: Escolher template visual que combine com a identidade do salão.               |
+| **3**      | **Desenvolvimento inicial do site e integração do sistema de agendamento.**                      |
+|            | - Criar a estrutura básica do site (páginas principais, navegação).                              |
+|            | - Implementar o sistema de agendamento escolhido (inserir campos, configurações de horário).     |
+|            | - **Microetapa**: Escolher e inserir fotos e mídias para o site.                                |
+|            | - **Microetapa**: Criar textos de divulgação (ex: "Bem-vindo ao Studio JenniKrause! Agende seu horário com facilidade..."). |
+|            | - **Microetapa**: Redigir e ajustar a descrição de serviços no site.                             |
+| **4**      | **Testes do site e ajustes conforme feedback.**                                                  |
+|            | - Testar o funcionamento do site em diferentes dispositivos (desktop, celular).                  |
+|            | - Testar o sistema de agendamento para garantir que está funcionando corretamente.              |
+|            | - Ajustar o design conforme feedback da proprietária (fontes, cores, imagens).                  |
+|            | - **Microetapa**: Testar funcionalidades de agendamento em diferentes horários e dias.          |
+|            | - **Microetapa**: Ajustar textos de divulgação com base no feedback da proprietária.             |
+| **5**      | **Finalização e entrega do site, incluindo relatório de atividade.**                             |
+|            | - Revisar e finalizar todas as páginas do site.                                                 |
+|            | - Verificar links de contato, agendamento e mídias sociais.                                      |
+|            | - Preparar relatório final detalhado das atividades realizadas.                                  |
+|            | - **Microetapa**: Criar e revisar conteúdos de marketing para redes sociais (ex: postagens no Instagram). |
+|            | - **Microetapa**: Finalizar e revisar a página de contato e agendamento.                        |
+| **6**      | **Acompanhamento e ajustes finais se necessário.**                                              |
+|            | - Monitorar o desempenho do site após o lançamento.                                              |
+|            | - Corrigir qualquer erro que apareça após a interação dos clientes.                             |
+|            | - **Microetapa**: Ajustar a visibilidade do site conforme análise de feedback.                   |
+|            | - **Microetapa**: Ajustar conteúdo promocional para aumentar a atratividade do site e engajamento. |
 
 ### 6. Resultados Esperados
 
