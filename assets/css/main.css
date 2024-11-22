@@ -1717,3 +1717,16 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+.map-container {
+  display: flex;
+  justify-content: center; /* Alinha o mapa horizontalmente no centro */
+  align-items: center; /* Alinha o mapa verticalmente no centro */
+  height: 100vh; /* Ocupa toda a altura da página, se necessário */
+  margin: 0 auto; /* Garante que o container tenha o máximo de espaço disponível */
+}
+
+iframe {
+  max-width: 100%; /* Garante que o iframe ocupe até 100% da largura disponível */
+  height: 450px; /* Altura fixa do mapa */
+}
